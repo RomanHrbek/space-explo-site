@@ -1,9 +1,8 @@
 body{
-    color: white;
-    background-image: url("images/universe.jpg");
-    background-size: cover;
+    color: #82a5ca;
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 .btn{
@@ -11,8 +10,25 @@ body{
    background-color: white;
    border: none;
    font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+   color: #82a5ca;
 }
 
 .underline{
     border-bottom: 3px solid white;
+}
+
+#logo{
+    width:200px;
+}
+
+.hero{
+    background-image: url("images/galaxy.webp"); 
+    background-size: cover;
+    padding: 100px;
+    text-shadow: 1px 1px 5px rgb(0, 0, 0);
+}
+
+.terms{
+    font-size: 30px;
 }
