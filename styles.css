@@ -1,0 +1,13 @@
+body{
+    color: white;
+    background-image: url(images/universe.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.btn{
+   width: 70px; 
+   height: 30px;
+   background-color: white;
+   border: none;
+}
